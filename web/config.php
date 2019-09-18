@@ -8,7 +8,7 @@ define('DB_CHARSET', 'utf8mb4');
 // APP ROOT
 define('APPROOT', dirname(dirname(__FILE__)));
 // URL ROOT
-define('URLROOT', 'http://localhost/ecomshop/web/');
+define('URLROOT', 'http://localhost/mvc/web/');
 // Site Name
 define('SITENAME', 'Ecommerce Shop');
 // App version
